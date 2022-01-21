@@ -1,0 +1,175 @@
+
+@media  (max-width:800px){
+
+    
+  
+header .navbar-brand{
+padding-left: 1rem;
+
+}
+
+    header .mar button{
+   position: relative;
+   bottom: 11px;
+
+    }
+    .shad1{
+        
+        margin-right: 6px;
+        left: 0vmin;
+        /* top: -10vmin; */
+        /* width: 105%;
+        height: 89%; */
+        /* height: initial;
+        width: initial; */
+        position: relative;
+
+    }
+    .pray img{
+        width: 96%;
+    }
+ 
+.rect{
+
+width: 10rem;
+height: 8rem;
+
+}
+.rect h1{
+    font-size: 2rem;
+}
+/* .section3{
+height: inherit;
+padding: 10vmin!important;
+
+}
+.section3 .row h1{
+padding: 6vmin 4vmin;
+
+
+
+}
+
+
+
+.section3.row .col-md-6{
+    text-align: center !important;
+} */
+
+/* .desktop{
+font-size: 8vmin;
+
+} */
+/* .desktop h3{
+    font-size: 3vmin;
+} */
+.section3 h1{
+    font-size: 5vmin;
+
+}
+.paragraph{
+
+    font-size: 2vmin;
+}
+
+.section4 .team{
+display: flex;
+flex-direction: column;
+align-content: center;
+
+}
+.carousel-inner{
+    width: 24rem;
+}
+/* footer input{
+    margin: 6px;
+}
+.input-group-text{
+    margin: 6px;
+
+} */
+
+
+}
+
+
+@media  (max-width:1264px){
+
+
+    header .mar button{
+        position: relative;
+        bottom: 11px;
+     
+         }
+
+
+    .section4 .team{
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        
+        }
+        .carousel-inner{
+            width: 24rem;
+        }
+
+        footer .column{
+
+            /* padding: 0px -200px; */
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            /* justify-content: center; */
+        
+        }
+        .column i{
+            margin-top: 8px;
+        }
+
+}
+
+@media  (max-width:766px){
+
+footer input{
+    margin-bottom: 10px;
+    margin-left: -8px;
+}
+
+footer .input-group-prepend{
+    margin-bottom: 10px;
+
+
+} 
+
+}
+
+@media  (max-width:384px){
+
+.card1{
+    width: 20rem;
+    /* margin-right: 10px; */
+}
+
+
+}
+
+@media  (max-width:361px){
+
+    .card1{
+        width: 17rem;
+        /* margin-right: 10px; */
+    }
+    
+    
+    }
+/* 
+
+@media  (max-width:991px){
+     .like{
+   margin-left: -100px;
+
+    } 
+ }  */
+
+
+
