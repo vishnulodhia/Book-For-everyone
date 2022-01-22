@@ -232,7 +232,7 @@ width: 100%;
 
 height: 55vmin;
 
-background: url('../asst/try2.jpg');
+background: url('/try2.jpg');
 background-position: -24rem -20rem;
 background-size: 150%;
 position: relative;
